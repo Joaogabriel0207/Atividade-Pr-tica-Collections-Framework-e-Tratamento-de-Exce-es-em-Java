@@ -31,11 +31,3 @@ O projeto utiliza `throw`, `throws` e blocos `try-catch` para impedir falhas ine
 
 ## Execução e Capturas de Tela
 ![Captura de tela 5](./Captura%20de%20tela%202026-11-16%20222934.png)
-
-## Como Executar o Programa
-
-1. Certifique-se de ter o **JDK (Java Development Kit)** instalado.
-2. Abra o terminal na pasta onde estão os arquivos `.java`.
-3. Compile todos os arquivos:
-   ```bash
-   javac *.java
