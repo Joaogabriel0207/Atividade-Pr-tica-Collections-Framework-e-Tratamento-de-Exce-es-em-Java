@@ -30,10 +30,7 @@ O projeto utiliza `throw`, `throws` e blocos `try-catch` para impedir falhas ine
 3. **`IllegalArgumentException` (Exceção Nativa do Java):** lançada ao tentar cadastrar um prato nulo, com código menor ou igual a zero, título/categoria vazios ou valor menor ou igual a zero.
 
 ## Execução e Capturas de Tela
-
-*(Substitua esta seção pelos prints do console mostrando os testes normais e as mensagens de erro capturadas)*
-
-![Execução dos Testes](prints/execucao_testes.png)
+![Captura de tela 5](./Captura%20de%20tela%202026-11-16%20222934.png)
 
 ## Como Executar o Programa
 
